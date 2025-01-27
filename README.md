@@ -1,2 +1,3 @@
 # My-C-project
-starting from mini project in schjool 
+starting from mini project in school
+
